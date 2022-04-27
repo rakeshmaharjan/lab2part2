@@ -1,0 +1,48 @@
+body {
+    color: #404040;
+    font-size: 11pt;
+    font-family: 'Georgia', 'Garamond';
+
+}
+
+/* link color-> #A4A400 */
+h1 {
+    font-family: 'Lucida Sans', 'Unicode', 'Helvetica', 'Arial';
+    font-size: 22pt;
+    font-weight: bold;
+    text-align: center;
+    text-decoration: underline;
+    background-color: #F0F0F0;
+    color: #A4A400;
+}
+h2{
+    text-align: left;
+    text-decoration: underline;
+    background-color: #F0F0F0;
+    color: #A4A400;
+    font-size: 18pt;
+}
+
+.span-bold{
+    font-weight: bold;
+}
+
+.comments{
+    margin-left: 100px;
+}
+
+.article-element{
+    background-color: #FFFFA8;
+    font-style: italic;
+}
+.links{
+    width: 20%;
+}
+#copyright{
+    text-align: right;
+    font-family: monospace;
+}
+
+.span-strike{
+    text-decoration: line-through;
+}
